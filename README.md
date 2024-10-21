@@ -1,9 +1,7 @@
 
 <div align = center>
 
-<img width = 300 src = ClassEmu_Logo.png>
 <img width = 300 src = ClassEmu_Logo.png> 
- 
 <br>
 <br>
 
