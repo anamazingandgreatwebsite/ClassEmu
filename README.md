@@ -20,15 +20,7 @@ Self-hosted **Javascript** emulation for various system.
     
 [![Button Contributors]][Contributors]   
  
-Join our Discord server:
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/6akryGkETU)](https://discord.gg/6akryGkETU)
-
-Or the Matrix server (#emulatorjs:matrix.emulatorjs.org):
-
-<a href="https://matrix.to/#/#emulatorjs:matrix.emulatorjs.org" rel="noopener" target="_blank"><img src="https://matrix.to/img/matrix-badge.svg" alt="Chat on Matrix"></a>
-
-</div>
 
 <br>
 
