@@ -1,8 +1,8 @@
 
 <div align = center>
 
-<img width = 300 src = docs/Logo-light.png#gh-dark-mode-only>
-<img width = 300 src = docs/Logo.png#gh-light-mode-only> 
+<img width = 300 src = ClassEmu_Logo.png>
+<img width = 300 src = ClassEmu_Logo.png> 
  
 <br>
 <br>
