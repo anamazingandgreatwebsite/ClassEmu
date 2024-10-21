@@ -17,8 +17,6 @@ Self-hosted **Javascript** emulation for various system.
 [![Button Configurator]][Configurator]<br>
 [![Button Demo]][Demo] 
 [![Button Legacy]][Legacy]
-    
-[![Button Contributors]][Contributors]   
  
 
 
@@ -178,7 +176,7 @@ npm start
 [Website]: https://emulatorjs.org/
 [Legacy]: https://coldcast.org/games/1/Super-Mario-Bros
 [Usage]: https://emulatorjs.org/docs/
-[Demo]: https://demo.emulatorjs.org/
+[Demo]: https://spookyseasonlol.github.io/EmulatorJS/
 
 
 <!-- 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮  Systems  🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 🎮 -->
